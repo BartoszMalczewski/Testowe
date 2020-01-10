@@ -9,6 +9,9 @@ namespace ConsoleApp2
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("Implementacja nowej funkcjonalności projektu");
 			Console.WriteLine("Implementacja nowej funkcjonalności projektu");
+			Console.WriteLine("Zmiany 1");
+			Console.WriteLine("Zmiany 2");
+
 
 		}
 	}
